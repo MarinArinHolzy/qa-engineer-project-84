@@ -29,7 +29,7 @@ test-cases:
     status: fail
 
   - summary: |
-      Проверка очищения корзины при оформлении заказа
+      Проверка оформления заказа
     status: fail
 
   - summary: |
